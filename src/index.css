@@ -1,0 +1,9 @@
+body{
+	background-color:yellow;	
+}
+
+div{
+	color: red;
+	background-color: blue;
+	transform: rotate(45deg); 
+}
